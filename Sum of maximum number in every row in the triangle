@@ -38,4 +38,4 @@ b.forEach(function(i){
     sum +=  d.sort((a,b) => a-b).at(-1);
 })
 
-console.log(`The sum of the largest number in every row in the triangle is ${sum)}`)
+console.log(`The sum of the largest number in every row in the triangle is ${sum}`)
